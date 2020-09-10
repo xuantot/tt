@@ -1,0 +1,12 @@
+[04-Apr-2019 14:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/cp571903/public_html/vnjob.jp/public/index.php:4
+Stack trace:
+#0 /home/cp571903/public_html/vnjob.jp/public/index.php(8): get_root()
+#1 /home/cp571903/public_html/vnjob.jp/public/index.php(12): redirect()
+#2 {main}
+  thrown in /home/cp571903/public_html/vnjob.jp/public/index.php on line 4
+[04-Apr-2019 14:16:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/cp571903/public_html/vnjob.jp/public/index.php:4
+Stack trace:
+#0 /home/cp571903/public_html/vnjob.jp/public/index.php(8): get_root()
+#1 /home/cp571903/public_html/vnjob.jp/public/index.php(12): redirect()
+#2 {main}
+  thrown in /home/cp571903/public_html/vnjob.jp/public/index.php on line 4

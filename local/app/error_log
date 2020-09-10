@@ -1,0 +1,13 @@
+[04-Apr-2019 02:25:40 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/cp571903/public_html/vnjob.jp/app/User.php on line 8
+[04-Apr-2019 14:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/cp571903/public_html/vnjob.jp/app/index.php:4
+Stack trace:
+#0 /home/cp571903/public_html/vnjob.jp/app/index.php(8): get_root()
+#1 /home/cp571903/public_html/vnjob.jp/app/index.php(12): redirect()
+#2 {main}
+  thrown in /home/cp571903/public_html/vnjob.jp/app/index.php on line 4
+[04-Apr-2019 14:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request() in /home/cp571903/public_html/vnjob.jp/app/index.php:4
+Stack trace:
+#0 /home/cp571903/public_html/vnjob.jp/app/index.php(8): get_root()
+#1 /home/cp571903/public_html/vnjob.jp/app/index.php(12): redirect()
+#2 {main}
+  thrown in /home/cp571903/public_html/vnjob.jp/app/index.php on line 4

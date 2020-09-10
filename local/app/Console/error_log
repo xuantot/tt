@@ -1,0 +1,1 @@
+[04-Apr-2019 02:39:13 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/cp571903/public_html/vnjob.jp/app/Console/Kernel.php on line 8

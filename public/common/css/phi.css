@@ -1,0 +1,47 @@
+.text-header {
+    font-weight: bold !important;
+    color :orange !important;
+}
+.pos-header{
+   border-bottom: 4px solid #ff7500;
+}
+
+.box-title{
+ font-weight: bold;
+ color:rgb(105, 5, 5);
+}
+.font-icon-ph {
+    font-size: 20px !important;
+}
+.bg-thead {
+   background-color:#d8f4fc !important;
+}
+
+.skin-blue-light .sidebar-menu>li.active {
+    border-left-color: #3c8dbc !important;
+}
+.cursorpoint{
+    cursor: pointer;
+}
+
+.margin-bottom-20px{
+margin-bottom : 20px !important;
+}
+
+
+.set-modal{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+.pagination li span {
+    border-radius: 0 !important;
+    margin-right: 8px;
+    color: white;
+    border: 1px solid #ddd;
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    background: #ec0000;
+}

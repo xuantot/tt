@@ -1,0 +1,1 @@
+[04-Apr-2019 02:32:38 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/cp571903/public_html/vnjob.jp/app/Http/Requests/AddKhoahocRequest.php on line 9

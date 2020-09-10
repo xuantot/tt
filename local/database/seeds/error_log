@@ -1,0 +1,3 @@
+[04-Apr-2019 14:29:46 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/cp571903/public_html/vnjob.jp/database/seeds/DatabaseSeeder.php on line 5
+[04-Apr-2019 14:29:51 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/cp571903/public_html/vnjob.jp/database/seeds/DatabaseSeeder.php on line 5
+[04-Apr-2019 14:30:01 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/cp571903/public_html/vnjob.jp/database/seeds/DatabaseSeeder.php on line 5
